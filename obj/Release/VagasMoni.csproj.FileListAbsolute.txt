@@ -1,0 +1,22 @@
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\Encontre Um Trampo.exe.config
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\Encontre Um Trampo.exe
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\Encontre Um Trampo.pdb
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\GemBox.Document.dll
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\SQLite.NET.dll
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\System.Data.SQLite.dll
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\GemBox.Document.xml
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\bin\Release\System.Data.SQLite.xml
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.csprojAssemblyReference.cache
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.SQLiteConnectionStringBuilder.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.Consultar.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.CriarCV.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.Form1.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.GerenciamentoCV.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.Properties.Resources.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.RecrutadoresPlataformas.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.Vaga.resources
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.csproj.GenerateResource.cache
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.csproj.CopyComplete
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\Encontre Um Trampo.exe
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\Encontre Um Trampo.pdb
+C:\Users\lugui\source\repos\VagasMoni\VagasMoni\obj\Release\VagasMoni.AboutBox1.resources

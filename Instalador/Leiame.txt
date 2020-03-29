@@ -1,0 +1,2 @@
+Realizar a execução do Instalador e prosseguir.
+Será extraído uma pasta na raiz do HD chamada EncontreUmTrampo
